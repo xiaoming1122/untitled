@@ -1,0 +1,11 @@
+Index: src/大幅
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- src/大幅	(date 1506609115000)
++++ src/大幅	(revision )
+@@ -1,1 +1,1 @@
+-阿斯蒂芬撒地方萨德
++阿斯蒂芬撒地方萨德f ss df df ds fsd
+\ No newline at end of file
